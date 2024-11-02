@@ -1,2 +1,2 @@
 # Projects
-Important projects I have worked on throughout my degree.
+Connect4 Game project I worked on for one of my courses.
